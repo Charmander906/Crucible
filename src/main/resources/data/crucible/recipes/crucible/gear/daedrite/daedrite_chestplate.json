@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:daedrite_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:adamantium_chestplate"
+    },
+    "result": {
+        "item": "crucible:daedrite_chestplate"
+    },
+    "tier": 4
+}

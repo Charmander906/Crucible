@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:palladium_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:palladium_ingot",
+    "count": 9
+  }
+}

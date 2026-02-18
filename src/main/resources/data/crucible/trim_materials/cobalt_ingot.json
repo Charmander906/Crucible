@@ -1,0 +1,10 @@
+{
+    "asset_name": "cobalt_ingot",
+    "description": {
+        "translate": "trim_material.crucible.cobalt_ingot"
+    },
+    "ingredient": "crucible:cobalt_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/cobalt_ingot"
+}

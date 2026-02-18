@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crucible:raw_mythril"
+  },
+  "result": "crucible:mythril_ingot",
+  "experience": 0.35,
+  "cookingtime": 140
+}

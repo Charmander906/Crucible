@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:orichalcum_ingot",
+        "count": 4
+    },
+    "ingredient_bottom": {
+        "item": "crucible:cobalt_boots"
+    },
+    "result": {
+        "item": "crucible:orichalcum_boots"
+    },
+    "tier": 3
+}

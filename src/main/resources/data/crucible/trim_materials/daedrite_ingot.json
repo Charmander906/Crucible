@@ -1,0 +1,10 @@
+{
+    "asset_name": "daedrite_ingot",
+    "description": {
+        "translate": "trim_material.crucible.daedrite_ingot"
+    },
+    "ingredient": "crucible:daedrite_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/daedrite_ingot"
+}

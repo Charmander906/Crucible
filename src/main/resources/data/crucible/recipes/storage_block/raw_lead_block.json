@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:raw_lead"
+    }
+  },
+  "result": {
+    "item": "crucible:raw_lead_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "asset_name": "mythril_ingot",
+    "description": {
+        "translate": "trim_material.crucible.mythril_ingot"
+    },
+    "ingredient": "crucible:mythril_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/mythril_ingot"
+}

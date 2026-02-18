@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "crucible:steel_block",
+    "count": 1
+  }
+}

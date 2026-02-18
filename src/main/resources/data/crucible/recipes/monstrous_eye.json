@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BSB",
+        "NEN",
+        "BSB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:lava_bucket"
+        },
+        "N": {
+            "item": "minecraft:blackstone"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "cataclysm:monstrous_eye",
+        "count": 1
+    }
+}

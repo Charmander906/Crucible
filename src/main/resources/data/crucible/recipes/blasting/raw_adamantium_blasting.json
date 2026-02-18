@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crucible:raw_adamantium"
+  },
+  "result": "crucible:adamantium_ingot",
+  "experience": 0.55,
+  "cookingtime": 240
+}

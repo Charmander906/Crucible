@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$$$",
+        "$$$",
+        "$$$"
+    ],
+    "key": {
+        "$": {
+            "item": "iceandfire:silver_nugget"
+        }
+    },
+    "result": {
+        "item": "crucible:silver_ingot",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$$$",
+        "-#-",
+        "$$$"
+    ],
+    "key": {
+        "#": {
+            "item": "crucible:superheated_crucible"
+        },
+        "$": {
+            "item": "crucible:daedrite_ingot"
+        },
+        "-": {
+            "item": "crucible:hyperspark_alloy"
+        }
+    },
+    "result": {
+        "item": "crucible:hypercharged_crucible",
+        "count": 1
+    }
+}

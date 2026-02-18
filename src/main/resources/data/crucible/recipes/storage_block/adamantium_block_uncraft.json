@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:adamantium_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:adamantium_ingot",
+    "count": 9
+  }
+}

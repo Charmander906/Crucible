@@ -1,0 +1,17 @@
+{
+  "feature": "crucible:end_celestium_ore",
+  "placement": [
+    { "type": "minecraft:count", "count": 6 },
+    { "type": "minecraft:in_square" },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": { "absolute": 0 },
+        "max_inclusive": { "absolute": 96 }
+      }
+    },
+    { "type": "minecraft:biome" }
+  ],
+  "biomes": "minecraft:small_end_islands"
+}

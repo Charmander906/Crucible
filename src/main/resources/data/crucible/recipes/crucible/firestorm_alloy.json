@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "cataclysm:essence_of_the_storm",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "cataclysm:ignitium_ingot"
+    },
+    "result": {
+        "item": "crucible:firestorm_alloy",
+        "count": 1
+    },
+    "tier": 3
+}

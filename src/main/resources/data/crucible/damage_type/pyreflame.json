@@ -1,0 +1,8 @@
+{
+    "message_id": "pyreflame",
+    "scaling": "never",
+    "exhaustion": 0.1,
+    "effects": {
+        "magic": true
+    }
+}

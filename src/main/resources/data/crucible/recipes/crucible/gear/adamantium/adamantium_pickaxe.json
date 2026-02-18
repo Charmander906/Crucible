@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:adamantium_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:titanium_pickaxe"
+    },
+    "result": {
+        "item": "crucible:adamantium_pickaxe"
+    },
+    "tier": 3
+}

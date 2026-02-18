@@ -1,0 +1,4 @@
+{
+      "replace": false,
+      "values": ["#forge:ingots/copper", "#forge:ingots/tin", "#forge:ingots/bronze", "#forge:ingots/lead", "#forge:ingots/zinc", "#forge:ingots/brass", "#forge:ingots/silver", "#forge:ingots/steel", "#forge:ingots/tungsten", "#forge:ingots/palladium", "#forge:ingots/mythril", "#forge:ingots/volcanium", "#forge:ingots/cobalt", "#forge:ingots/orichalcum", "#forge:ingots/titanium", "#forge:ingots/adamantium", "#forge:ingots/daedrite", "#forge:ingots/nyxium", "#forge:ingots/celestium", "#forge:ingots/voidsteel"]
+    }

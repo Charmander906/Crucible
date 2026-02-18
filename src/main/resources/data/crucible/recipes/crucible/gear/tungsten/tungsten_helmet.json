@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:tungsten_ingot",
+        "count": 5
+    },
+    "ingredient_bottom": {
+        "item": "crucible:steel_helmet"
+    },
+    "result": {
+        "item": "crucible:tungsten_helmet"
+    },
+    "tier": 2
+}

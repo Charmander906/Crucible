@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "crucible:block/hypercharged_crucible" },
+        "lit=true":  { "model": "crucible:block/hypercharged_crucible_lit" }
+    }
+}

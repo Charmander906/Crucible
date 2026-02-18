@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:silver_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:brass_axe"
+    },
+    "result": {
+        "item": "crucible:silver_axe"
+    },
+    "tier": 1
+}

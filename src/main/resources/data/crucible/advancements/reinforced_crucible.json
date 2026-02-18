@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:reinforced_crucible"
+    },
+    "title": "A Work in Progress",
+    "description": "Use Silver and Steel to craft a Reinforced Crucible",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "crucible:crucible",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:reinforced_crucible"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

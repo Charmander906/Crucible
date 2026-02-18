@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:lead_ingot",
+        "count": 4
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:iron_boots"
+    },
+    "result": {
+        "item": "crucible:lead_boots"
+    },
+    "tier": 1
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:obsidian_dust",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:glass_bottle"
+    },
+    "result": {
+        "item": "crucible:obsidianskin_tonic",
+        "count": 1
+    },
+    "tier": 2
+}

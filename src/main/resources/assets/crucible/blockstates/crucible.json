@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "crucible:block/crucible" },
+        "lit=true":  { "model": "crucible:block/crucible_lit" }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:voidsteel_ingot",
+        "count": 7
+    },
+    "ingredient_bottom": {
+        "item": "crucible:celestium_leggings"
+    },
+    "result": {
+        "item": "crucible:voidsteel_leggings"
+    },
+    "tier": 4
+}

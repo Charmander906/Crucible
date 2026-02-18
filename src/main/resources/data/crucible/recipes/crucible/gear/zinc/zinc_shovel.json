@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:zinc_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:lead_shovel"
+    },
+    "result": {
+        "item": "crucible:zinc_shovel"
+    },
+    "tier": 1
+}

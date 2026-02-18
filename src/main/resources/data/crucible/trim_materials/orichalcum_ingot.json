@@ -1,0 +1,10 @@
+{
+    "asset_name": "orichalcum_ingot",
+    "description": {
+        "translate": "trim_material.crucible.orichalcum_ingot"
+    },
+    "ingredient": "crucible:orichalcum_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/orichalcum_ingot"
+}

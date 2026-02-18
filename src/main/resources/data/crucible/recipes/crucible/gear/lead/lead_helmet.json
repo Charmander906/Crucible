@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:lead_ingot",
+        "count": 5
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:iron_helmet"
+    },
+    "result": {
+        "item": "crucible:lead_helmet"
+    },
+    "tier": 1
+}

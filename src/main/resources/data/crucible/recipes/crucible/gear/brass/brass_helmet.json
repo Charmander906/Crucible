@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:brass_ingot",
+        "count": 5
+    },
+    "ingredient_bottom": {
+        "item": "crucible:zinc_helmet"
+    },
+    "result": {
+        "item": "crucible:brass_helmet"
+    },
+    "tier": 1
+}

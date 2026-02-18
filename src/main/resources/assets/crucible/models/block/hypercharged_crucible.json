@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "crucible:block/hypercharged_crucible_side",
+        "down": "crucible:block/hypercharged_crucible_bottom",
+        "up": "crucible:block/hypercharged_crucible_top",
+        "north": "crucible:block/hypercharged_crucible_side",
+        "south": "crucible:block/hypercharged_crucible_side",
+        "east": "crucible:block/hypercharged_crucible_side",
+        "west": "crucible:block/hypercharged_crucible_side"
+    }
+}

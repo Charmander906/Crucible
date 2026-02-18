@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:nyxium_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:daedrite_chestplate"
+    },
+    "result": {
+        "item": "crucible:nyxium_chestplate"
+    },
+    "tier": 4
+}

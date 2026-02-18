@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "crucible:cobalt_ingot"
+    },
+    "result": "crucible:cobalt_wire",
+    "count": 4
+}

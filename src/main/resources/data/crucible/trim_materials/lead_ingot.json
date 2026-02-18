@@ -1,0 +1,10 @@
+{
+    "asset_name": "lead_ingot",
+    "description": {
+        "translate": "trim_material.crucible.lead_ingot"
+    },
+    "ingredient": "crucible:lead_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/lead_ingot"
+}

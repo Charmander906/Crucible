@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:superheated_crucible"
+    },
+    "title": "Fanning the Flames",
+    "description": "Use Volcanium and Lava Power Cells to craft a Superheated Crucible",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "crucible:reinforced_crucible",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:superheated_crucible"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

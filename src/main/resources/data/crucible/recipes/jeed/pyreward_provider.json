@@ -1,0 +1,9 @@
+{
+    "type": "jeed:effect_provider",
+    "effect": {
+        "id": "crucible:pyreward"
+    },
+    "providers": [
+        { "item": "crucible:obsidianskin_tonic" }
+    ]
+}

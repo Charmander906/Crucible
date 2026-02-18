@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:zinc_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:lead_chestplate"
+    },
+    "result": {
+        "item": "crucible:zinc_chestplate"
+    },
+    "tier": 1
+}

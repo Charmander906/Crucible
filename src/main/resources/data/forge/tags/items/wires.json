@@ -1,0 +1,4 @@
+{
+      "replace": false,
+      "values": ["#forge:wires/adamantium", "#forge:wires/mythril", "#forge:wires/cobalt"]
+    }

@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:copper_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:zinc_ingot"
+    },
+    "result": {
+        "item": "crucible:brass_ingot",
+        "count": 1
+    },
+    "tier": 1
+}

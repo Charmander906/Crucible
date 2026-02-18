@@ -1,0 +1,4 @@
+{
+      "replace": false,
+      "values": ["#forge:ores/nyxium", "#forge:ores/celestium", "#forge:ores/voidsteel"]
+    }

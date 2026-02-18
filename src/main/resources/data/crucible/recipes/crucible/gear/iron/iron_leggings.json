@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:iron_ingot",
+        "count": 7
+    },
+    "ingredient_bottom": {
+        "item": "crucible:bronze_leggings"
+    },
+    "result": {
+        "item": "minecraft:iron_leggings"
+    },
+    "tier": 1
+}

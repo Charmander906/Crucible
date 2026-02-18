@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "crucible:tin_ingot",
+        "crucible:bronze_ingot",
+        "crucible:lead_ingot",
+        "crucible:zinc_ingot",
+        "crucible:brass_ingot",
+        "crucible:silver_ingot",
+        "crucible:steel_ingot",
+        "crucible:tungsten_ingot",
+        "crucible:palladium_ingot",
+        "crucible:mythril_ingot",
+        "crucible:volcanium_ingot",
+        "crucible:cobalt_ingot",
+        "crucible:orichalcum_ingot",
+        "crucible:titanium_ingot",
+        "crucible:adamantium_ingot",
+        "crucible:daedrite_ingot",
+        "crucible:nyxium_ingot",
+        "crucible:celestium_ingot",
+        "crucible:voidsteel_ingot"
+    ]
+}

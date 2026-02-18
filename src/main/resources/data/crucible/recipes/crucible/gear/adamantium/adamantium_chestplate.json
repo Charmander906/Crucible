@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:adamantium_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:titanium_chestplate"
+    },
+    "result": {
+        "item": "crucible:adamantium_chestplate"
+    },
+    "tier": 3
+}

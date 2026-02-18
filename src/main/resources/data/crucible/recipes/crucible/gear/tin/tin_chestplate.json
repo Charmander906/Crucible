@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:tin_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:copper_chestplate"
+    },
+    "result": {
+        "item": "crucible:tin_chestplate"
+    },
+    "tier": 1
+}

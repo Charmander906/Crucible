@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "crucible:block/superheated_crucible_side",
+        "down": "crucible:block/superheated_crucible_bottom",
+        "up": "crucible:block/superheated_crucible_top",
+        "north": "crucible:block/superheated_crucible_side",
+        "south": "crucible:block/superheated_crucible_side",
+        "east": "crucible:block/superheated_crucible_side",
+        "west": "crucible:block/superheated_crucible_side"
+    }
+}

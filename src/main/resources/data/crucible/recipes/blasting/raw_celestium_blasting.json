@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crucible:raw_celestium"
+  },
+  "result": "crucible:celestium_ingot",
+  "experience": 0.65,
+  "cookingtime": 280
+}

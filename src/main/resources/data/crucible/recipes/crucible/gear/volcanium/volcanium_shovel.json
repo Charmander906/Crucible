@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:volcanium_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:mythril_shovel"
+    },
+    "result": {
+        "item": "crucible:volcanium_shovel"
+    },
+    "tier": 3
+}

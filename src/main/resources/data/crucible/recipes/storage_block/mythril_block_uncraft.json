@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:mythril_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:mythril_ingot",
+    "count": 9
+  }
+}

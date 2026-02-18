@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:titanium_ingot",
+        "count": 7
+    },
+    "ingredient_bottom": {
+        "item": "crucible:orichalcum_leggings"
+    },
+    "result": {
+        "item": "crucible:titanium_leggings"
+    },
+    "tier": 3
+}

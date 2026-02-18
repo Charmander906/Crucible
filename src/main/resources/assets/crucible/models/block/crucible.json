@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "crucible:block/crucible_side",
+        "down": "crucible:block/crucible_bottom",
+        "up": "crucible:block/crucible_top",
+        "north": "crucible:block/crucible_side",
+        "south": "crucible:block/crucible_side",
+        "east": "crucible:block/crucible_side",
+        "west": "crucible:block/crucible_side"
+    }
+}

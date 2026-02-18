@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:steel_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:steel_ingot",
+    "count": 9
+  }
+}

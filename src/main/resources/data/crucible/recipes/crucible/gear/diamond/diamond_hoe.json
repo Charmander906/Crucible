@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:diamond",
+        "count": 2
+    },
+    "ingredient_bottom": {
+        "item": "crucible:tungsten_hoe"
+    },
+    "result": {
+        "item": "minecraft:diamond_hoe"
+    },
+    "tier": 2
+}

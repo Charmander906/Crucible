@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:voidsteel_ingot",
+        "count": 2
+    },
+    "ingredient_bottom": {
+        "item": "crucible:celestium_sword"
+    },
+    "result": {
+        "item": "crucible:voidsteel_sword"
+    },
+    "tier": 4
+}

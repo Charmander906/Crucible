@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:celestium_ingot"
+    }
+  },
+  "result": {
+    "item": "crucible:celestium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RGB",
+        " _ "
+    ],
+    "key": {
+        "_": {
+            "item": "crucible:titanium_sheet"
+        },
+        "R": {
+            "item": "crucible:adamantium_wire"
+        },
+        "G": {
+            "item": "crucible:mythril_wire"
+        },
+        "B": {
+            "item": "crucible:cobalt_wire"
+        }
+    },
+    "result": {
+        "item": "crucible:triwire_lattice",
+        "count": 1
+    }
+}

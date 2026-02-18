@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:hypercharged_crucible"
+    },
+    "title": "The Ultimate Forge",
+    "description": "Use Daedrite and Hyperspark Alloy to craft a Hypercharged Crucible",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "crucible:hyperspark",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:hypercharged_crucible"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

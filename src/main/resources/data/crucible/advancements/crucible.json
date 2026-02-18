@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:crucible"
+    },
+    "title": "Upgrades, People, Upgrades!",
+    "description": "Craft a crucible",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:story/smelt_iron",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "crucible:crucible"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:titanium_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:titanium_ingot"
+    },
+    "result": {
+        "item": "crucible:titanium_sheet",
+        "count": 4
+    },
+    "tier": 3
+}

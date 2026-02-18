@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:nyxium_ingot",
+        "count": 4
+    },
+    "ingredient_bottom": {
+        "item": "crucible:daedrite_boots"
+    },
+    "result": {
+        "item": "crucible:nyxium_boots"
+    },
+    "tier": 4
+}

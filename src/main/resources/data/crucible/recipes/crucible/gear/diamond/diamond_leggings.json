@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:diamond",
+        "count": 7
+    },
+    "ingredient_bottom": {
+        "item": "crucible:tungsten_leggings"
+    },
+    "result": {
+        "item": "minecraft:diamond_leggings"
+    },
+    "tier": 2
+}

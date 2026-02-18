@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:lead_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:iron_shovel"
+    },
+    "result": {
+        "item": "crucible:lead_shovel"
+    },
+    "tier": 1
+}

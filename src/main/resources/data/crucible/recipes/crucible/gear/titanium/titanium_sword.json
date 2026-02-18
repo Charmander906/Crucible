@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:titanium_ingot",
+        "count": 2
+    },
+    "ingredient_bottom": {
+        "item": "crucible:orichalcum_sword"
+    },
+    "result": {
+        "item": "crucible:titanium_sword"
+    },
+    "tier": 3
+}

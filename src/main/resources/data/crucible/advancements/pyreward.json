@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:obsidianskin_tonic"
+    },
+    "title": "Safety First",
+    "description": "Drink an Obsidianskin Tonic to avoid the Nether's Pyreflame",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "crucible:pyreward": {}
+        }
+      }
+    },
+    "dimension": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "location": {
+            "dimension": "minecraft:the_nether"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require",
+      "dimension"
+    ]
+  ]
+}

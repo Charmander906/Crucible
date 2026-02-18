@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": ["crucible:black_volcanium_ore_placed"],
+  "step": "underground_ores"
+}

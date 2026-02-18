@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:palladium_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:netherite_axe"
+    },
+    "result": {
+        "item": "crucible:palladium_axe"
+    },
+    "tier": 2
+}

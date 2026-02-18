@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:raw_orichalcum_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:raw_orichalcum",
+    "count": 9
+  }
+}

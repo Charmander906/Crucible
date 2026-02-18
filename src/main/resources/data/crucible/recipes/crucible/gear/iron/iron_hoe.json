@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+    },
+    "ingredient_bottom": {
+        "item": "crucible:bronze_hoe"
+    },
+    "result": {
+        "item": "minecraft:iron_hoe"
+    },
+    "tier": 1
+}

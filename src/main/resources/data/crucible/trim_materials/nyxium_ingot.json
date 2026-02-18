@@ -1,0 +1,10 @@
+{
+    "asset_name": "nyxium_ingot",
+    "description": {
+        "translate": "trim_material.crucible.nyxium_ingot"
+    },
+    "ingredient": "crucible:nyxium_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/nyxium_ingot"
+}

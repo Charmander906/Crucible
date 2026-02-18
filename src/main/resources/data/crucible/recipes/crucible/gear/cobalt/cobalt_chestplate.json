@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:cobalt_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:volcanium_chestplate"
+    },
+    "result": {
+        "item": "crucible:cobalt_chestplate"
+    },
+    "tier": 3
+}

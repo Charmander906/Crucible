@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:daedrite_ingot"
+    }
+  },
+  "result": {
+    "item": "crucible:daedrite_block",
+    "count": 1
+  }
+}

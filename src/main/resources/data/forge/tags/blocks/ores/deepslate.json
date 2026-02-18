@@ -1,0 +1,4 @@
+{
+      "replace": false,
+      "values": ["#forge:ores/tungsten", "#forge:ores/mythril", "#forge:ores/cobalt", "#forge:ores/titanium"]
+    }

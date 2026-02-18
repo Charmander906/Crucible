@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crucible:raw_orichalcum"
+  },
+  "result": "crucible:orichalcum_ingot",
+  "experience": 0.45,
+  "cookingtime": 200
+}

@@ -1,0 +1,10 @@
+{
+    "asset_name": "celestium_ingot",
+    "description": {
+        "translate": "trim_material.crucible.celestium_ingot"
+    },
+    "ingredient": "crucible:celestium_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/celestium_ingot"
+}

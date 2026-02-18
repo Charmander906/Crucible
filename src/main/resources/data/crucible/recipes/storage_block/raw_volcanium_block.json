@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:raw_volcanium"
+    }
+  },
+  "result": {
+    "item": "crucible:raw_volcanium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:daedrite_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:daedrite_ingot",
+    "count": 9
+  }
+}

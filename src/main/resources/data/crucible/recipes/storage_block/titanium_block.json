@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "crucible:titanium_block",
+    "count": 1
+  }
+}

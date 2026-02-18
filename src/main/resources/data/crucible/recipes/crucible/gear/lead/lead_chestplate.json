@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:lead_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:iron_chestplate"
+    },
+    "result": {
+        "item": "crucible:lead_chestplate"
+    },
+    "tier": 1
+}

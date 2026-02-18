@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:zinc_ingot",
+        "count": 7
+    },
+    "ingredient_bottom": {
+        "item": "crucible:lead_leggings"
+    },
+    "result": {
+        "item": "crucible:zinc_leggings"
+    },
+    "tier": 1
+}

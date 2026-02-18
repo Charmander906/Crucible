@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:witherblight_alloy",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:firestorm_alloy"
+    },
+    "result": {
+        "item": "crucible:hyperspark_alloy",
+        "count": 1
+    },
+    "tier": 3
+}

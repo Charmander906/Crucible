@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:titanium_sheet",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:triwire_lattice"
+    },
+    "result": {
+        "item": "crucible:daedrite_ingot",
+        "count": 1
+    },
+    "tier": 3
+}

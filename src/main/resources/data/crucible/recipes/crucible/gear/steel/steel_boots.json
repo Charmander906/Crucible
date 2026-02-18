@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:steel_ingot",
+        "count": 4
+    },
+    "ingredient_bottom": {
+        "item": "crucible:silver_boots"
+    },
+    "result": {
+        "item": "crucible:steel_boots"
+    },
+    "tier": 2
+}

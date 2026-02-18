@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:celestium_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:nyxium_shovel"
+    },
+    "result": {
+        "item": "crucible:celestium_shovel"
+    },
+    "tier": 4
+}

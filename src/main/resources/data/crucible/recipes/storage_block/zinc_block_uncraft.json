@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:zinc_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:zinc_ingot",
+    "count": 9
+  }
+}

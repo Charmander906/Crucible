@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:adamantium_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:titanium_shovel"
+    },
+    "result": {
+        "item": "crucible:adamantium_shovel"
+    },
+    "tier": 3
+}

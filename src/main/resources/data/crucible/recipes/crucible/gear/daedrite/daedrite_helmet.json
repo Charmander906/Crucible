@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:daedrite_ingot",
+        "count": 5
+    },
+    "ingredient_bottom": {
+        "item": "crucible:adamantium_helmet"
+    },
+    "result": {
+        "item": "crucible:daedrite_helmet"
+    },
+    "tier": 4
+}

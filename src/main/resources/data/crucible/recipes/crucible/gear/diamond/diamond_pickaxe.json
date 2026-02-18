@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:diamond",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:tungsten_pickaxe"
+    },
+    "result": {
+        "item": "minecraft:diamond_pickaxe"
+    },
+    "tier": 2
+}

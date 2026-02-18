@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crucible:deepslate_tungsten_ore"
+  },
+  "result": "crucible:tungsten_ingot",
+  "experience": 0.25,
+  "cookingtime": 200
+}

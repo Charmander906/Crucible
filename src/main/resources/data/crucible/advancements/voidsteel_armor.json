@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:voidsteel_chestplate"
+    },
+    "title": "Cover Me in Shadows",
+    "description": "Get a full suit of Voidsteel armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:end/kill_dragon",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:voidsteel_helmet"
+            ]
+          },
+          {
+            "items": [
+              "crucible:voidsteel_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "crucible:voidsteel_leggings"
+            ]
+          },
+          {
+            "items": [
+              "crucible:voidsteel_boots"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 1000
+  }
+}

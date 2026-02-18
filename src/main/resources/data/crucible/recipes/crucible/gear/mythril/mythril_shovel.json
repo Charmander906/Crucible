@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:mythril_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:palladium_shovel"
+    },
+    "result": {
+        "item": "crucible:mythril_shovel"
+    },
+    "tier": 2
+}

@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:mythril_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:palladium_axe"
+    },
+    "result": {
+        "item": "crucible:mythril_axe"
+    },
+    "tier": 2
+}

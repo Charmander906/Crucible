@@ -1,0 +1,4 @@
+{
+      "replace": false,
+      "values": ["#forge:raw_materials/tin", "#forge:raw_materials/lead", "#forge:raw_materials/zinc", "#forge:raw_materials/silver", "#forge:raw_materials/tungsten", "#forge:raw_materials/palladium", "#forge:raw_materials/mythril", "#forge:raw_materials/volcanium", "#forge:raw_materials/cobalt", "#forge:raw_materials/orichalcum", "#forge:raw_materials/titanium", "#forge:raw_materials/adamantium", "#forge:raw_materials/nyxium", "#forge:raw_materials/celestium", "#forge:raw_materials/voidsteel"]
+    }

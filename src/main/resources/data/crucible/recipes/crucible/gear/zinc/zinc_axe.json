@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:zinc_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:lead_axe"
+    },
+    "result": {
+        "item": "crucible:zinc_axe"
+    },
+    "tier": 1
+}

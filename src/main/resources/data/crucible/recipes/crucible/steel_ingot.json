@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:coal",
+        "count": 4
+    },
+    "ingredient_bottom": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": {
+        "item": "crucible:steel_ingot",
+        "count": 1
+    },
+    "tier": 1
+}

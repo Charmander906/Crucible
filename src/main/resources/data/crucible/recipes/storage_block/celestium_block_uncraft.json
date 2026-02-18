@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crucible:celestium_block"
+    }
+  ],
+  "result": {
+    "item": "crucible:celestium_ingot",
+    "count": 9
+  }
+}

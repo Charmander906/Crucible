@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": ["crucible:nether_orichalcum_ore_placed"],
+  "step": "underground_ores"
+}

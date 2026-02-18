@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:volcanium_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:mythril_chestplate"
+    },
+    "result": {
+        "item": "crucible:volcanium_chestplate"
+    },
+    "tier": 3
+}

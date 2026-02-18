@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "crucible:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "crucible:cobalt_block",
+    "count": 1
+  }
+}

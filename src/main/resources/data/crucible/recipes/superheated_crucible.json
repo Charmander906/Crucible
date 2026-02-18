@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$$$",
+        "-#-",
+        "$$$"
+    ],
+    "key": {
+        "#": {
+            "item": "crucible:reinforced_crucible"
+        },
+        "$": {
+            "item": "crucible:volcanium_ingot"
+        },
+        "-": {
+            "item": "cataclysm:lava_power_cell"
+        }
+    },
+    "result": {
+        "item": "crucible:superheated_crucible",
+        "count": 1
+    }
+}

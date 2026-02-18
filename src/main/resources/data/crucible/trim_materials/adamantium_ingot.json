@@ -1,0 +1,10 @@
+{
+    "asset_name": "adamantium_ingot",
+    "description": {
+        "translate": "trim_material.crucible.adamantium_ingot"
+    },
+    "ingredient": "crucible:adamantium_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/adamantium_ingot"
+}

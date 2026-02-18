@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "minecraft:diamond",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:tungsten_shovel"
+    },
+    "result": {
+        "item": "minecraft:diamond_shovel"
+    },
+    "tier": 2
+}

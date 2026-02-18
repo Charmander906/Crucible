@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$$$",
+        "-#-",
+        "$$$"
+    ],
+    "key": {
+        "#": {
+            "item": "crucible:crucible"
+        },
+        "$": {
+            "item": "crucible:steel_ingot"
+        },
+        "-": {
+            "item": "crucible:silver_ingot"
+        }
+    },
+    "result": {
+        "item": "crucible:reinforced_crucible",
+        "count": 1
+    }
+}

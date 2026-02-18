@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "crucible:tin_ore",
+        "crucible:lead_ore",
+        "crucible:zinc_ore",
+        "crucible:silver_ore",
+        "crucible:deepslate_tungsten_ore",
+        "crucible:nether_palladium_ore",
+        "crucible:deepslate_mythril_ore",
+        "crucible:black_volcanium_ore",
+        "crucible:deepslate_cobalt_ore",
+        "crucible:nether_orichalcum_ore",
+        "crucible:deepslate_titanium_ore",
+        "crucible:nether_adamantium_ore",
+        "crucible:end_nyxium_ore",
+        "crucible:end_celestium_ore",
+        "crucible:end_voidsteel_ore",
+        "crucible:crucible",
+        "crucible:reinforced_crucible",
+        "crucible:superheated_crucible",
+        "crucible:hypercharged_crucible"
+    ]
+}

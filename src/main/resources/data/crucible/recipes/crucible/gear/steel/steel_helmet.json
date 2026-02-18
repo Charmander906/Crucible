@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:steel_ingot",
+        "count": 5
+    },
+    "ingredient_bottom": {
+        "item": "crucible:silver_helmet"
+    },
+    "result": {
+        "item": "crucible:steel_helmet"
+    },
+    "tier": 2
+}

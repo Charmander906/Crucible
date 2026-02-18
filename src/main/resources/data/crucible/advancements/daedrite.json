@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:triwire_lattice"
+    },
+    "title": "The Ultimate Forge",
+    "description": "Craft a Daedrite Ingot from four other metals",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "crucible:superheated_crucible",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:daedrite_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

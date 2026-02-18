@@ -1,0 +1,10 @@
+{
+    "asset_name": "zinc_ingot",
+    "description": {
+        "translate": "trim_material.crucible.zinc_ingot"
+    },
+    "ingredient": "crucible:zinc_ingot",
+    "item_model_index": 0.1,
+    "override_armor_materials": {},
+    "palette": "crucible:trims/palette/zinc_ingot"
+}

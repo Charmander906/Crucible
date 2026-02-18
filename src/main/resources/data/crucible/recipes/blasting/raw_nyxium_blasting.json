@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "crucible:raw_nyxium"
+  },
+  "result": "crucible:nyxium_ingot",
+  "experience": 0.6,
+  "cookingtime": 260
+}

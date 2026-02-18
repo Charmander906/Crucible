@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:volcanium_ingot",
+        "count": 3
+    },
+    "ingredient_bottom": {
+        "item": "crucible:mythril_axe"
+    },
+    "result": {
+        "item": "crucible:volcanium_axe"
+    },
+    "tier": 3
+}

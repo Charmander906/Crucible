@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:bronze_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:tin_shovel"
+    },
+    "result": {
+        "item": "crucible:bronze_shovel"
+    },
+    "tier": 1
+}

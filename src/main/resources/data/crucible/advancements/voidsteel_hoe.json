@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:voidsteel_hoe"
+    },
+    "title": "Unshakeable Dedication",
+    "description": "Use two Voidsteel Ingots to upgrade a Hoe, and then consider what led to this",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/obtain_netherite_hoe",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:voidsteel_hoe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ],
+  "rewards": {
+    "recipes": [],
+    "experience": 1000
+  }
+}

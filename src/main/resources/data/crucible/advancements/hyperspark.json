@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "crucible:hyperspark_alloy"
+    },
+    "title": "Core of Catastrophe",
+    "description": "Craft the Hyperspark Alloy from the remains of great foes",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "crucible:superheated_crucible",
+  "criteria": {
+    "require": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "crucible:hyperspark_alloy"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "require"
+    ]
+  ]
+}

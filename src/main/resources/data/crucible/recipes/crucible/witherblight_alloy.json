@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "cataclysm:cursium_ingot",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "cataclysm:witherite_ingot"
+    },
+    "result": {
+        "item": "crucible:witherblight_alloy",
+        "count": 1
+    },
+    "tier": 3
+}

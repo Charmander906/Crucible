@@ -1,0 +1,14 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "crucible:steel_ingot",
+        "count": 8
+    },
+    "ingredient_bottom": {
+        "item": "crucible:silver_chestplate"
+    },
+    "result": {
+        "item": "crucible:steel_chestplate"
+    },
+    "tier": 2
+}

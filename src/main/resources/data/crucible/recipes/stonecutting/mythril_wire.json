@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "crucible:mythril_ingot"
+    },
+    "result": "crucible:mythril_wire",
+    "count": 4
+}

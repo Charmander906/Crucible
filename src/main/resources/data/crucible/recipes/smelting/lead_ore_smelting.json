@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crucible:lead_ore"
+  },
+  "result": "crucible:lead_ingot",
+  "experience": 0.15,
+  "cookingtime": 200
+}

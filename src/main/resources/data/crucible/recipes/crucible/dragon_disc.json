@@ -1,0 +1,15 @@
+{
+    "type": "crucible:crucible",
+    "ingredient_top": {
+        "item": "irons_spellbooks:dragonskin",
+        "count": 1
+    },
+    "ingredient_bottom": {
+        "item": "crucible:nyxium_ingot"
+    },
+    "result": {
+        "item": "dragondisc:dragon_disc",
+        "count": 1
+    },
+    "tier": 4
+}
